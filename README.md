@@ -33,9 +33,9 @@ unicodeGeneralCategoryLong("𐱐") // 'Unassigned'
 ### `unicodeGeneralCategories(string)` / `unicodeGeneralCategoriesLong(string)` 
 
 ```js
-import { unicodeGeneralCategories, unicodeGeneralCategoriesLong } from "unicode-category";
+// Get a Set of all General Categories used in a string
 
-// Set of all General Categories of a string
+import { unicodeGeneralCategories, unicodeGeneralCategoriesLong } from "unicode-category";
 unicodeGeneralCategories("A 2") // Set(3) { 'Lu', 'Nd', 'Zs' }
 unicodeGeneralCategoriesLong("A 2") // Set(3) { "Decimal_Number", "Space_Separator", "Uppercase_Letter" }
 ```
