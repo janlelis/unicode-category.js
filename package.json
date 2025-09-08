@@ -1,7 +1,7 @@
 {
   "name": "unicode-category",
   "version": "1.0.0",
-  "description": "[Unicode 16.0.0] Get Unicode's General Category of character",
+  "description": "[Unicode 17.0.0] Get Unicode's General Category of character",
   "type": "module",
   "exports": {
     "default": "./src/index.js"
