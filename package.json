@@ -1,6 +1,6 @@
 {
   "name": "unicode-category",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "[Unicode 17.0.0] Get Unicode's General Category of character",
   "type": "module",
   "exports": {
