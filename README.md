@@ -2,7 +2,7 @@
 
 Returns the [Major or General Category](https://en.wikipedia.org/wiki/Unicode_character_property#General_Category) a Unicode character belongs to.
 
-Unicode version: **17.0.0** (September 2025)
+Unicode version: **18.0.0** (September 2026)
 
 ## Install
 
@@ -128,5 +128,5 @@ listUnicodeMajorCategories()
 
 ## MIT License
 
-- Copyright (C) 2024-2025 Jan Lelis <https://janlelis.com>. Released under the MIT license.
+- Copyright (C) 2024-2026 Jan Lelis <https://janlelis.com>. Released under the MIT license.
 - Unicode data: https://www.unicode.org/copyright.html#Exhibit1
